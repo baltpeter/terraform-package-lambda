@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #
 # Python because it comes on Mac and Linux - Node must be installed.
 #
