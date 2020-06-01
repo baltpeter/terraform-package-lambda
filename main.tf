@@ -3,7 +3,7 @@ variable "code" {
 }
 variable "extra_files" {
   description = "List of extra files to package.  (default: [])"
-  type = "list"
+  type = list
   default = []
 }
 variable "output_filename" {
